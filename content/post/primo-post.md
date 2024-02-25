@@ -6,3 +6,5 @@ draft = false
 
 ## Prova
 Sto provando a scrivere per la prima volta sul mio blog
+adesso sto aggiugendo del contentuo alla pagina web di modo da vedere come vanno le cose
+e soprattuto se si possono fare funzionare le cose bene oppure no.
