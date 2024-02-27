@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>antonio</title>
     <link>http://localhost:1313/personal_blog/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on antonio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Feb 2024 22:34:23 +0100</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/personal_blog/post/primo-post/</link>
       <pubDate>Sun, 25 Feb 2024 22:34:23 +0100</pubDate>
       <guid>http://localhost:1313/personal_blog/post/primo-post/</guid>
-      <description>Prova Sto provando a scrivere per la prima volta sul mio blog</description>
+      <description>Prova Sto provando a scrivere per la prima volta sul mio blog adesso sto aggiugendo del contentuo alla pagina web di modo da vedere come vanno le cose e soprattuto se si possono fare funzionare le cose bene oppure no. provo a scrivere anche se secondo me non funzione proprio niente di niente When (a \ne 0), there are two solutions to (ax^2 + bx + c = 0) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.</description>
     </item>
   </channel>
 </rss>

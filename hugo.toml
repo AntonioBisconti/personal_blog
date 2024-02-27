@@ -1,4 +1,34 @@
 baseURL = 'https://AntonioBisconti.github.io/personal_blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'antonio'
 theme = 'PaperMod'
+
+
+[params]
+ShowShareButtons = true
+ShowReadingTime = true
+ShowToc = true
+ShowCodeCopyButtons = true
+
+
+[params.homeInfoParams]
+Title = "Un blog a caso"
+Content = "Scrivo cose a caso se vi va leggetele"
+
+[[menu.main]]
+identifier = "categories"
+name = "categories"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "example"
+name = "example.org"
+url = "https://example.org"
+weight = 30
