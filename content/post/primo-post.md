@@ -31,13 +31,12 @@ adesso vediamo se é possibile che vengano fatti oppure no questi aggiornamenti 
 pochino preoccupando per queste cose anche se non doverei, ma comunque un pochino mi preoccupo lo stesso.
 vediamo se questo blocco di equazioni si mettono oppure no
 
-$$ \int f90$$
+$$ \int g$$
 
 $$
-\begin{pmatrix}
-   a & b \\
-   c & d 
-\end{pmatrix}
+\int_{-\infty}^\infty
+    e^{2 \pi i \xi x}
+    \,d\xi
 $$
 
 perfetto adesso abbiamo pure le equaoni top come cos
