@@ -36,7 +36,7 @@ $$ \int g$$
 $$
 \int_{-\infty}^\infty
     e^{2 \pi i \xi x}
-    \,d\gamma
+    \,d\epsilon
 $$
 
 perfetto adesso abbiamo pure le equaoni top come cos
