@@ -11,13 +11,17 @@
     <loc>http://localhost:1313/personal_blog/post/secondo-post/</loc>
     <lastmod>2024-03-05T18:28:33+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/personal_blog/tags/first/</loc>
+    <lastmod>2024-02-25T22:34:23+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/personal_blog/post/primo-post/</loc>
+    <lastmod>2024-02-25T22:34:23+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal_blog/tags/</loc>
     <lastmod>2024-02-25T22:34:23+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/personal_blog/archives/</loc>
   </url><url>
     <loc>http://localhost:1313/personal_blog/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/personal_blog/tags/</loc>
   </url>
 </urlset>

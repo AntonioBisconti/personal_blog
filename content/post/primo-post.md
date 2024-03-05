@@ -2,7 +2,7 @@
 title = 'Primo Post'
 date = 2024-02-25T22:34:23+01:00
 draft = false
-
+tags= ["first"]
 
 [cover]
     image= "https://leganerd.com/wp-content/uploads/2016/07/lorenz-999x749.png" # image path/url
@@ -42,6 +42,8 @@ $$ \int f(x) dx $$
 $$ \sum_i^\infty $$
 
 $$ \frac{3}{2} $$
+
+$$ \partial{t} $$
 
 Adesso provo a scrivere tutto quello che so in markdown
 ### Titolo 3
