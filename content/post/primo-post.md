@@ -5,12 +5,11 @@ draft = false
 
 
 [cover]
-    image= "https://lh3.googleusercontent.com/proxy/3wihAVHoDw-lC0L6KPTSD3JHxgiRrj530Elcw9mzCv3UeFf07NzJs_tFiJBt0c-9m6S6hqud1qfbUdExqlbOB0FyMXWlqzPL" # image path/url
+    image= "https://leganerd.com/wp-content/uploads/2016/07/lorenz-999x749.png" # image path/url
     alt= "alt prova" # alt text
     caption= "Attrattore di lorentz" # display caption under cover
     imageWidth = 2
     imageHeight = 2
-    relative= false # when using page bundles set this to true
     hiddenInList= true # only hide on current single page
 
 
@@ -41,6 +40,8 @@ beccati questa bella emoji :heart:
     \]
 $$ \int f(x) dx $$
 $$ \sum_i^\infty $$
+
+$$ \frac{3}{2} $$
 
 Adesso provo a scrivere tutto quello che so in markdown
 ### Titolo 3
