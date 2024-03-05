@@ -1,34 +1,87 @@
 baseURL = 'https://AntonioBisconti.github.io/personal_blog/'
 languageCode = 'en-us'
-title = 'antonio'
+title = 'antoniobisconti'
 theme = 'PaperMod'
 
 
+enableEmoji = true
+#Markup per Simboli matematici
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+
+  [markup.highlight]
+  codeFences = true
+  guessSyntax = true
+  lineNos = true 
+  style = "monokai"
+
+
 [params]
-ShowShareButtons = true
+math = true
+comments= false
+#ShowShareButtons = true
 ShowReadingTime = true
 ShowToc = true
 ShowCodeCopyButtons = true
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+description = "forse questa é la descrizione che appare su google? potrebbe essere, se effettivamente é"
 
 
-[params.homeInfoParams]
-Title = "Un blog a caso"
-Content = "Scrivo cose a caso se vi va leggetele"
+
+
+
+
+  [params.homeInfoParams]
+  Title = "Un blog a caso"
+  Content = """
+  Ciao! :wave: Studio Fisica a palermo, scrivo cose a caso se vi va leggetele. _In particolare_ questo trovate:
+
+  - La mia vita universitaria (abbastanza disagiata)
+  - Mie tentativi (fallimentari) di programmare
+  - Robe varie
+
+   se adesso riprendo a scrivere io mi chiedo perché non si riesca a fare il rander della lista, :pencil:
+  """
+
+  [[params.socialIcons]]
+  name = "x"
+  url = "https://x.com/"
+
+  [[params.socialIcons]]
+  name = "stackoverflow"
+  url = "https://stackoverflow.com"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/"
+
+
+
 
 [[menu.main]]
-identifier = "categories"
-name = "categories"
-url = "/categories/"
+identifier = "archives"
+name = "Archivio"
+url= "/archives"
 weight = 10
 
 [[menu.main]]
 identifier = "tags"
-name = "tags"
+name = "Tags"
 url = "/tags/"
 weight = 20
 
-[[menu.main]]
-identifier = "example"
-name = "example.org"
-url = "https://example.org"
-weight = 30
+
+
+
+
+
+
+
+
