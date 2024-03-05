@@ -2,7 +2,7 @@
 title = 'Primo Post'
 date = 2024-02-25T22:34:23+01:00
 draft = false
-comments= true
+
 
 [cover]
     image= "https://lh3.googleusercontent.com/proxy/3wihAVHoDw-lC0L6KPTSD3JHxgiRrj530Elcw9mzCv3UeFf07NzJs_tFiJBt0c-9m6S6hqud1qfbUdExqlbOB0FyMXWlqzPL" # image path/url
@@ -10,7 +10,7 @@ comments= true
     caption= "Attrattore di lorentz" # display caption under cover
     imageWidth = 2
     imageHeight = 2
-    relative= true # when using page bundles set this to true
+    relative= false # when using page bundles set this to true
     hiddenInList= true # only hide on current single page
 
 
@@ -39,7 +39,8 @@ beccati questa bella emoji :heart:
 \[
     \partial_t \ket{\psi}= -\frac{i}{\hbar} \hat{H} \ket{\psi}
     \]
-$$ \int f(x) dx$$
+$$ \int f(x) dx $$
+$$ \sum_i^\infty $$
 
 Adesso provo a scrivere tutto quello che so in markdown
 ### Titolo 3

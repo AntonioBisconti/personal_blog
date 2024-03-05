@@ -24,7 +24,7 @@ enableEmoji = true
 
 [params]
 math = true
-comments= false
+comments= true
 #ShowShareButtons = true
 ShowReadingTime = true
 ShowToc = true
