@@ -31,7 +31,14 @@ adesso vediamo se é possibile che vengano fatti oppure no questi aggiornamenti 
 pochino preoccupando per queste cose anche se non doverei, ma comunque un pochino mi preoccupo lo stesso.
 vediamo se questo blocco di equazioni si mettono oppure no
 
+$$ \int f90$$
 
+$$
+\begin{pmatrix}
+   a & b \\
+   c & d 
+\end{pmatrix}
+$$
 
 perfetto adesso abbiamo pure le equaoni top come cos
 
