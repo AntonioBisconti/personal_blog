@@ -30,31 +30,11 @@ correttamente renderizzati oppure no, di questa cosa sono abbastanza curioso di 
 adesso vediamo se é possibile che vengano fatti oppure no questi aggiornamenti perché ti devo dire che io mi sto un 
 pochino preoccupando per queste cose anche se non doverei, ma comunque un pochino mi preoccupo lo stesso.
 vediamo se questo blocco di equazioni si mettono oppure no
-
-$$ \int g$$
-
 $$
 \int_{-\infty}^\infty
     e^{2 \pi i \xi x}
-    \,d\sigma
+    \,d \sum
 $$
-
-$$  \alpha $$
-
-perfetto adesso abbiamo pure le equaoni top come cos
-
-$$ a=x-b $$
-
-beccati questa bella emoji :heart:
-
-$$ \sum_i $$
-
-$$ \frac{3}{2} $$
-
-$$ \frac{3}{5} $$
-
-$$ \partial{t} $$
-
 Adesso provo a scrivere tutto quello che so in markdown
 ### Titolo 3
 #### Titolo 4
