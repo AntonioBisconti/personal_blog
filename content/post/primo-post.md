@@ -19,8 +19,9 @@ tags= ["first"]
 Sto provando a prepare questa materia. Devo dire che é abbastanza difficile, anche se ci sto provando a preparala entro il
 Alcune formule molto interessanti sono le seguenti:
 $$
-\|f+g\| \le \|f\| + \|g\|
+\|f+g\| \le \|f\| + \|g\| + \int_{\sum}^{\prod} f(\chi) \d \beta
 $$
+
 Questa formula funziona abbastanza bene anche se non é molto interessante, ma comunque fa il suo lavoro.
 
 Sto provando a scrivere per la prima volta sul mio blog
