@@ -13,7 +13,7 @@
       <link>http://localhost:1313/personal_blog/post/terzo_post/</link>
       <pubDate>Wed, 06 Mar 2024 15:45:11 +0100</pubDate>
       <guid>http://localhost:1313/personal_blog/post/terzo_post/</guid>
-      <description>adesso provo ad inserire delle formule e vediamo se funziona oppure no: $$\sum $$ </description>
+      <description>adesso provo ad inserire delle formule e vediamo se funziona oppure no: vediamo se riusciamo a fare il rander di questa pagina oppure no $$ \sum $$ </description>
     </item>
     <item>
       <title>Secondo Post</title>

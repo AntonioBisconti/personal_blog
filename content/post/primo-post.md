@@ -31,11 +31,11 @@ adesso vediamo se é possibile che vengano fatti oppure no questi aggiornamenti 
 pochino preoccupando per queste cose anche se non doverei, ma comunque un pochino mi preoccupo lo stesso.
 vediamo se questo blocco di equazioni si mettono oppure no
 
-{{< math >}}
+
 $$
 \mathcal{A} = \frac{1}{B}
 $$
-{{< /math >}}
+
 
 
 Adesso provo a scrivere tutto quello che so in markdown
