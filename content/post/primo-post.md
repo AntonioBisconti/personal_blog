@@ -33,10 +33,25 @@ vediamo se questo blocco di equazioni si mettono oppure no
 
 
 $$
-\mathcal{A} = \frac{1}{\sum}
+\begin{aligned}
+KL(\hat{y} || y) &= \sum_{c=1}^{M}\hat{y}_c \log{\frac{\hat{y}_c}{y_c}} \\
+JS(\hat{y} || y) &= \frac{1}{2}(KL(y||\frac{y+\hat{y}}{2}) + KL(\hat{y}||\frac{y+\hat{y}}{2}))
+\end{aligned}
 $$
+$$
+\def\arraystretch{1.5}
+   \begin{array}{c:c:c}
+   a & b & c \\ \hline
+   d & e & f \\
+   \hdashline
+   g & h & i
+\end{array}
+$$
+alkdsfjalskdjfòlksadj
 
+la formula precedente permette di creare questa immagine (non è vero)
 
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Plasma-lamp_2.jpg/1200px-Plasma-lamp_2.jpg" title="An ipotesi" width="140px">}}
 
 Adesso provo a scrivere tutto quello che so in markdown
 ### Titolo 3
