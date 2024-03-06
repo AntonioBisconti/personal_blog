@@ -33,7 +33,7 @@ vediamo se questo blocco di equazioni si mettono oppure no
 
 
 $$
-\mathcal{A} = \frac{1}{B}
+\mathcal{A} = \frac{1}{\sum}
 $$
 
 
