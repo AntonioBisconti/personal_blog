@@ -36,8 +36,10 @@ $$ \int g$$
 $$
 \int_{-\infty}^\infty
     e^{2 \pi i \xi x}
-    \,d\epsilon
+    \,d\sigma
 $$
+
+$$  \alpha $$
 
 perfetto adesso abbiamo pure le equaoni top come cos
 
