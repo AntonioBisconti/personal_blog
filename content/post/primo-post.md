@@ -47,6 +47,14 @@ $$
    g & h & i
 \end{array}
 $$
+
+$$
+\begin{autobreak}
+1 + x + 
+\frac{x^2}{2!} + \frac{x^3}{3!} + ..
+\end{autobreak}
+$$
+
 alkdsfjalskdjfòlksadj
 
 la formula precedente permette di creare questa immagine (non è vero)

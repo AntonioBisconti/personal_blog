@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/personal_blog/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primo Post</title>
-      <link>http://localhost:1313/personal_blog/post/post1/primo-post/</link>
+      <link>http://localhost:1313/personal_blog/post/primo-post/</link>
       <pubDate>Sun, 25 Feb 2024 22:34:23 +0100</pubDate>
-      <guid>http://localhost:1313/personal_blog/post/post1/primo-post/</guid>
+      <guid>http://localhost:1313/personal_blog/post/primo-post/</guid>
       <description>Prova Sto provando a scrivere per la prima volta sul mio blog adesso sto aggiugendo del contentuo alla pagina web di modo da vedere come vanno le cose e soprattuto se si possono fare funzionare le cose bene oppure no. provo a scrivere anche se secondo me non funzione proprio niente di niente When and they are
 An elephant at sunset vediamo se adesso questo tipo di simboli matematici vengono correttamente renderizzati oppure no, di questa cosa sono abbastanza curioso di vedere come possa andare.</description>
     </item>

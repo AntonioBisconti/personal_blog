@@ -23,6 +23,7 @@ enableEmoji = true
 
 
 [params]
+  logo = "/image1.jpg"
 math = true
 comments= true
 #ShowShareButtons = true
@@ -39,35 +40,40 @@ description = "forse questa é la descrizione che appare su google? potrebbe ess
 
 
   [params.homeInfoParams]
-  Title = "Un blog a caso"
+  Title = "Un blog di espressione" 
   Content = """
-  Ciao! :wave: Studio Fisica a palermo, scrivo cose a caso se vi va leggetele. _In particolare_ questo trovate:
+  **Ciao**! :wave: Sonto Antonio, ho 21 anni e studio fisica a Palermo.
 
-  - La mia vita universitaria (abbastanza disagiata)
-  - Mie tentativi (fallimentari) di programmare
-  - Robe varie
+  Ho creato questo sito principalmente per farmi da archivio. In particolare trovate:
+  - :white_small_square: Racconti della mia vita universitaria (abbastanza disagiata)
+  - :white_small_square: Mie tentativi (fallimentari) di programmare
+  - :white_small_square: Altre passioni varie
 
-   se adesso riprendo a scrivere io mi chiedo perché non si riesca a fare il rander della lista, :pencil:
+Porto la mia esperienza, non sono un esperto in niente di quello che scrivo. Ho voglia semplicemente di raccontarmi un po'; se 
+a qualcuno le cose di cui parlo tornano utili ancora meglio. 
+Se mi vuole contattare questa é la mia email :postbox: antonio.bisconti02@gmail.com. 
+
+Sono molto poco attivo su Instagram ed ogni tanto pubblico dei video su youtube.
   """
 
   [[params.socialIcons]]
-  name = "x"
-  url = "https://x.com/"
+  name = "instagram"
+  url = "https://www.instagram.com/antonio.bisconti_/"
 
   [[params.socialIcons]]
-  name = "stackoverflow"
-  url = "https://stackoverflow.com"
+  name = "youtube"
+  url = "https://www.youtube.com/channel/UCxQMjDLyRJ--OybhBWPjkyw"
 
   [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/"
+  url = "https://github.com/AntonioBisconti"
 
 
 
 
 [[menu.main]]
 identifier = "archives"
-name = "Archivio"
+name = "Tutti i Post"
 url= "/archives"
 weight = 10
 
