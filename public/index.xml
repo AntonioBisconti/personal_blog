@@ -6,8 +6,15 @@
     <description>Recent content on antoniobisconti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Mar 2024 18:28:33 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 15:45:11 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/personal_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terzo post</title>
+      <link>http://localhost:1313/personal_blog/post/terzo_post/</link>
+      <pubDate>Wed, 06 Mar 2024 15:45:11 +0100</pubDate>
+      <guid>http://localhost:1313/personal_blog/post/terzo_post/</guid>
+      <description>adesso provo ad inserire delle formule e vediamo se funziona oppure no: $$\sum $$ </description>
+    </item>
     <item>
       <title>Secondo Post</title>
       <link>http://localhost:1313/personal_blog/post/secondo-post/</link>

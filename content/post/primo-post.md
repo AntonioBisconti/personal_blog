@@ -30,11 +30,14 @@ correttamente renderizzati oppure no, di questa cosa sono abbastanza curioso di 
 adesso vediamo se é possibile che vengano fatti oppure no questi aggiornamenti perché ti devo dire che io mi sto un 
 pochino preoccupando per queste cose anche se non doverei, ma comunque un pochino mi preoccupo lo stesso.
 vediamo se questo blocco di equazioni si mettono oppure no
+
+$$ \sum $$
+
 $$
-\int_{-\infty}^\infty
-    e^{2 \pi i \xi x}
-    \,d \sum_i^n \alpha \beta \gamma
+KL(\hat{y} || y) = \sum_{c=1}^{M}\hat{y}_c \log{\frac{\hat{y}_c}{y_c}} \\
+JS(\hat{y} || y) = \frac{1}{2}(KL(y||\frac{y+\hat{y}}{2}) + KL(\hat{y}||\frac{y+\hat{y}}{2}))
 $$
+
 Adesso provo a scrivere tutto quello che so in markdown
 ### Titolo 3
 #### Titolo 4
