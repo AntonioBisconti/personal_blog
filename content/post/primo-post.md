@@ -33,7 +33,7 @@ vediamo se questo blocco di equazioni si mettono oppure no
 $$
 \int_{-\infty}^\infty
     e^{2 \pi i \xi x}
-    \,d \sum
+    \,d \sum_i^n \alpha \beta \gamma
 $$
 Adesso provo a scrivere tutto quello che so in markdown
 ### Titolo 3
