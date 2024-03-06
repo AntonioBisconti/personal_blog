@@ -23,7 +23,6 @@ enableEmoji = true
 
 
 [params]
-  logo = "/image1.jpg"
 math = true
 comments= true
 #ShowShareButtons = true
