@@ -56,12 +56,7 @@ $$
 \end{array}
 $$
 
-$$
-\begin{autobreak}
-1 + x + 
-\frac{x^2}{2!} + \frac{x^3}{3!} + ..
-\end{autobreak}
-$$
+
 
 alkdsfjalskdjfòlksadj
 
