@@ -9,3 +9,8 @@ vediamo se riusciamo a fare il rander di questa pagina oppure no
 $$ \sum \int \prod$$
 
 non funzione niente $$ \sum \sum $$
+
+Adesso devo tornare a studiare metodi. vediamo se qualcosa funziona ancora oppure no: \\\( f(x) = y \beta \\\)
+$$
+\beta
+$$
