@@ -1,11 +1,12 @@
 baseURL = 'https://AntonioBisconti.github.io/personal_blog/'
-languageCode = 'en-us'
+languageCode = 'it'
 title = 'antoniobisconti'
 theme = 'PaperMod'
 
 
 enableEmoji = true
-
+DefaultContentLanguage= "it"
+#copyright = "riservato"
 
 
 
@@ -44,6 +45,7 @@ enableEmoji = true
 
 
 [params]
+#label.icon= "logo.svg"
 math = true
 comments= true
 #ShowShareButtons = true
@@ -55,10 +57,12 @@ ShowPostNavLinks = true
 description = "forse questa é la descrizione che appare su google? potrebbe essere, se effettivamente é"
 
 
+label.icon="logo2.png"
 
  
   [params.assets]
-  favicon = "/favicon.ico"
+  disableHLJS= true 
+  favicon = "/assets/favicon.ico"
   favicon16x16 = "/favicon-16x16.png"
   favicon32x32 = "/favicon-32x32.png"
   apple_touch_icon = "/apple-touch-icon.png"

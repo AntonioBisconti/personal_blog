@@ -2,7 +2,9 @@
 title = 'Primo Post'
 date = 2024-02-25T22:34:23+01:00
 draft = false
+weight = 2
 tags= ["first"]
+
 
 [cover]
     image= "https://leganerd.com/wp-content/uploads/2016/07/lorenz-999x749.png" # image path/url
@@ -57,7 +59,7 @@ $$
 $$
 
 
-
+![a](/log.png)
 alkdsfjalskdjfòlksadj
 
 la formula precedente permette di creare questa immagine (non è vero)
@@ -71,6 +73,20 @@ Adesso provo a scrivere tutto quello che so in markdown
 ###### Titolo 6
 
 _**Liste**_
+
+### Solar System Exploration, 1950s – 1960s
+
+- [x] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
+
+
 
 adesso faccio una linea per separere il tutto
 

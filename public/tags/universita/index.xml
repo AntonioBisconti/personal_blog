@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Universita on antoniobisconti</title>
+    <link>http://localhost:1313/personal_blog/tags/universita/</link>
+    <description>Recent content in Universita on antoniobisconti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Wed, 06 Mar 2024 15:45:11 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/personal_blog/tags/universita/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inizio: Organizzazione esami. #1</title>
+      <link>http://localhost:1313/personal_blog/post/terzo_post/</link>
+      <pubDate>Wed, 06 Mar 2024 15:45:11 +0100</pubDate>
+      <guid>http://localhost:1313/personal_blog/post/terzo_post/</guid>
+      <description>Vediamo se questa descrizione funziona effettivamnete per indicizzare la pagina oppure no, bisogna capire questa cosa! Allora si la descrizione viene usata come metatag oltre che essere visualizzata come effettiva descrzione del post
+</description>
+    </item>
+  </channel>
+</rss>
