@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fisica on antoniobisconti</title>
+    <link>http://localhost:1313/personal_blog/tags/fisica/</link>
+    <description>Recent content in Fisica on antoniobisconti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Wed, 06 Mar 2024 15:45:11 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/personal_blog/tags/fisica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inizio: Organizzazione esami. #1</title>
+      <link>http://localhost:1313/personal_blog/post/organizzazione_esami/</link>
+      <pubDate>Wed, 06 Mar 2024 15:45:11 +0100</pubDate>
+      <guid>http://localhost:1313/personal_blog/post/organizzazione_esami/</guid>
+      <description>7 esami universitari a fisica in 4 mesi sono fattibili? molto probabilmente no però uno ci prova. Il punto 
+di partenza è sempre una buona organizzazione, cosa in cui io sono abbastanza pessimo. 
+</description>
+    </item>
+  </channel>
+</rss>

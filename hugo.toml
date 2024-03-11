@@ -48,7 +48,7 @@ DefaultContentLanguage= "it"
 #label.icon= "logo.svg"
 math = true
 comments= true
-#ShowShareButtons = true
+ShowShareButtons = true
 ShowReadingTime = true
 ShowToc = true
 ShowCodeCopyButtons = true
@@ -76,6 +76,7 @@ label.icon="logo2.png"
   mapping = "title"
   inputPosition = "bottom"
   lang = 'it'
+  theme = "dark"
   
 
 
@@ -91,9 +92,9 @@ label.icon="logo2.png"
 
 Porto la mia esperienza, non sono un esperto in niente di quello che scrivo. Ho voglia semplicemente di raccontarmi un po'; se 
 a qualcuno le cose di cui parlo tornano utili ancora meglio. 
-Se mi vuole contattare questa é la mia email :postbox: antonio.bisconti02@gmail.com. 
+Se mi vuolete contattare questa é la mia email :postbox: antonio.bisconti02@gmail.com. 
 
-Sono molto poco attivo su Instagram ed ogni tanto pubblico dei video su youtube.
+Sono molto poco attivo su Instagram e vorrei, in futuro, pubblicare dei video su youtube.
   """
 
   [[params.socialIcons]]
