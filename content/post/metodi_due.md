@@ -35,7 +35,8 @@ $$
 $$
 e l'insieme totale fatto da funzioni ortonormali 
 $$
-\mathscr{F}=\left(\phi_o=\frac{1}{\sqrt{2\pi}},\dots, \ \phi_{2l-1}= \frac{1}{\sqrt{\pi}}\sin{lx},  \ \phi_{2l}= \frac{1}{\sqrt{\pi}}\cos{lx}, \ l \in \N \right) 
+\displaystyle
+\mathscr{F}=\left(\phi_o=\frac{1}{\sqrt{2\pi}},\dots, \ \phi_{2l-1}= \frac{1}{\sqrt{\pi}}\sin{lx}, \ \phi_{2l}= \frac{1}{\sqrt{\pi}}\cos{lx}, \ l \in \N \right) 
 $$
 una funzione $f \in \cal{H}$ che appartiene allo spazio di hilbert la posso scrivere, sfruttando il teorema visto in [Sessione aprile #1](https://antoniobisconti.blog/post/organizzazione_esami/), come: 
 $$

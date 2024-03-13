@@ -5,3 +5,7 @@
     padding: 10px 10px 3px;
     border: 1px solid var(--border);
 }
+
+
+
+.katex-display { overflow: auto hidden }
