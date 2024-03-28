@@ -6,7 +6,7 @@
     <description>Recent content in Posts on antoniobisconti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 18 Mar 2024 14:09:16 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 22:40:20 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/personal_blog/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inizio: Organizzazione esami. #1</title>
@@ -26,11 +26,19 @@ di partenza è sempre una buona organizzazione, cosa in cui io sono abbastanza p
 Sto provando a scrivere per la prima volta sul mio blog adesso sto aggiugendo del contentuo alla pagina web di modo da vedere come vanno le cose e soprattuto se si possono fare funzionare le cose bene oppure no.</description>
     </item>
     <item>
+      <title>Metodi_quattro</title>
+      <link>http://localhost:1313/personal_blog/post/metodi_quattro/</link>
+      <pubDate>Thu, 28 Mar 2024 22:40:20 +0100</pubDate>
+      <guid>http://localhost:1313/personal_blog/post/metodi_quattro/</guid>
+      <description>Riassunto dei giorni di studio 25/03-31/03
+</description>
+    </item>
+    <item>
       <title>Sessione Aprile #3</title>
       <link>http://localhost:1313/personal_blog/post/metodi_tre/</link>
       <pubDate>Mon, 18 Mar 2024 14:09:16 +0100</pubDate>
       <guid>http://localhost:1313/personal_blog/post/metodi_tre/</guid>
-      <description>Riassunto dell&amp;#39;ultima settimana di studio 12/03-18/03
+      <description>Riassunto degli ultimi giorni di studio 12/03-24/03
 </description>
     </item>
     <item>

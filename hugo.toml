@@ -57,7 +57,7 @@ ShowPostNavLinks = true
 description = "forse questa é la descrizione che appare su google? potrebbe essere, se effettivamente é"
 
 
-label.icon="logo2.png"
+#label.icon="logo2.png"
 
  
   [params.assets]
@@ -66,6 +66,8 @@ label.icon="logo2.png"
   favicon16x16 = "/assets/favicon-16x16.png"
   favicon32x32 = "/assets/favicon-32x32.png"
   apple_touch_icon = "/assets/apple-touch-icon.png"
+  #android_chrome192x192= "/assets/android-chrome-192x192.png"
+  #android_chrome192x192= "/assets/android-chrome-512x512.png"
  
 
   [params.giscus]

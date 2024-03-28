@@ -1,5 +1,5 @@
 +++
-title = 'Inizio: Organizzazione esami. #1'
+title = 'Inizio: Organizzazione esami #1'
 date = 2024-03-06T15:45:11+01:00
 draft = false
 weight= 1
