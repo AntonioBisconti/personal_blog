@@ -56,8 +56,8 @@ ShowBreadCrumbs = true
 ShowPostNavLinks = true
 description = "forse questa é la descrizione che appare su google? potrebbe essere, se effettivamente é"
 
-
-#label.icon="logo2.png"
+#Questo serve per il logo nel header del sito, non per la favicon
+label.icon="logo2.png"
 
  
   [params.assets]

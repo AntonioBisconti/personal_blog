@@ -1,5 +1,5 @@
 +++
-title = 'Metodi_quattro'
+title = 'Sessione Aprile #3'
 date = 2024-03-28T22:40:20+01:00
 draft = true
 tags = ["università", "Fisica", "Metodi Matematici"]
@@ -27,4 +27,4 @@ Devo dire che la paura di non passare l'esame si fa sentire. É sempre la logica
 Il non andare a lezione penso sia stato fondamentale per preparare questa materia. Le lezioni la mattina mi 
 avrebbero tolto troppa energia per studiare poi il pomeriggio e riuscire a finire in un tempo ragionevole la teoria
 Complessivamente sono riuscito a mantenere un buono equilibrio fra studio, vita sociale, e svago.
-Durante altre sessioni questo non é stata una cosa assolutamente scontata.
+Durante altre sessioni questo non é stata una cosa assolutamente scontata. Il prossimo post sará dopo l'esame, quindi per domenica 7 aprile.
