@@ -83,9 +83,9 @@ label.icon="logo2.png"
 
 
   [params.homeInfoParams]
-  Title = "Un blog di espressione" 
+  Title = "Un sito a Caso " 
   Content = """
-  **Ciao**! :wave: Sonto Antonio, ho 21 anni e studio fisica a Palermo.
+  **Ciao**! :wave: Sono Antonio, ho 21 anni e studio fisica a Palermo.
 
   Ho creato questo sito principalmente per farmi da archivio. In particolare trovate:
   - :white_small_square: Racconti della mia vita universitaria (abbastanza disagiata)
@@ -95,9 +95,7 @@ label.icon="logo2.png"
 Porto la mia esperienza, non sono un esperto in niente di quello che scrivo. Ho voglia semplicemente di raccontarmi un po'; se 
 a qualcuno le cose di cui parlo tornano utili ancora meglio. 
 Se mi vuolete contattare questa é la mia email :postbox: antonio.bisconti02@gmail.com. 
-
-Sono molto poco attivo su Instagram e vorrei, in futuro, pubblicare dei video su youtube.
-  """
+"""
 
   [[params.socialIcons]]
   name = "instagram"
