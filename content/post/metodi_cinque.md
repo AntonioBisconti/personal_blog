@@ -71,7 +71,7 @@ un risultato, ma alla fine ottenevo sempre l'opposto. Semplicemente averei dovut
 perché era immediata la soluzione. Per il resto sono riuscito a risolvere 7 esercizi  
 correttamente quindi lo scritto é andato abbastanza bene. 
 
-# Prossima serie
+## Prossima serie
 Data questa, mancano _soltanto_ 6 materie alla laurea. Nella prossima sessione, quella 
 estiva, l'idea é di dare le due materie cardine del terzo anno di fisica:
 Meccanica quantistica e Struttura della materie. Nei prossimi post inizierò quindi a parlare della preparazione 
