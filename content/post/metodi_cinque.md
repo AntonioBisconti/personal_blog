@@ -1,7 +1,7 @@
 +++
 title = 'Sessione Aprile #5: Metodi è Andata'
 date = 2024-04-06T11:51:38+02:00
-draft = true
+draft = false
 tags = ["università", "Fisica", "Metodi Matematici"]
 author = "Antonio Bisconti"
 description = """
