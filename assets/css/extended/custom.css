@@ -7,6 +7,13 @@
 }
 
 
+.entry-cover img {
+    border-radius: var(--radius);
+    pointer-events: none;
+    width: 100%;
+    height: auto;
+    
+}
 
 .katex-display { overflow: auto hidden }
 

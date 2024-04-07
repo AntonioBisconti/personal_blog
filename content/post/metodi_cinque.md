@@ -7,6 +7,15 @@ author = "Antonio Bisconti"
 description = """
 Giorno dell'esame, considerazioni finali
 """
+
+[cover]
+    image= "https://lh3.googleusercontent.com/drive-viewer/AKGpihYT1LzftutbnopW5yxxwCI-Y5fqwl9VDtedZ3TTf1fx-P3ebSET6Zwmy6PbItmn21wLGXxv1o1qb1ynHcjBNwZUySkpAeBh5Q=s1600-v0" # image path/url
+    alt= "Metodi matematici formule principali" # alt text
+    caption= "" # display caption under cover
+    imageWidth = 0.1
+    imageHeight = 0.1
+    hiddenInList= true # only hide on current single page
+
 +++
 
 ## Finita sessione di aprile
