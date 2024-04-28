@@ -83,7 +83,7 @@ label.icon="logo2.png"
 
 
   [params.homeInfoParams]
-  Title = "Un sito a Caso " 
+  Title = "Un sito a Caso" 
   Content = """
   **Ciao**! :wave: Sono Antonio, ho 21 anni e studio fisica a Palermo.
 
@@ -94,7 +94,6 @@ label.icon="logo2.png"
 
 Porto la mia esperienza, non sono un esperto in niente di quello che scrivo. Ho voglia semplicemente di raccontarmi un po'; se 
 a qualcuno le cose di cui parlo tornano utili ancora meglio. 
-Se mi vuolete contattare questa é la mia email :postbox: antonio.bisconti02@gmail.com. 
 """
 
   [[params.socialIcons]]
