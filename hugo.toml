@@ -85,15 +85,14 @@ label.icon="logo2.png"
   [params.homeInfoParams]
   Title = "Un sito a Caso" 
   Content = """
-  **Ciao**! :wave: Sono Antonio, ho 21 anni e studio fisica a Palermo.
+  Mi chiamo Antonio, ho 21 anni e studio fisica a Palermo.
 
   Ho creato questo sito principalmente per farmi da archivio. In particolare trovate:
   - :white_small_square: Racconti della mia vita universitaria (abbastanza disagiata)
   - :white_small_square: Mie tentativi (fallimentari) di programmare
   - :white_small_square: Altre passioni varie
 
-Porto la mia esperienza, non sono un esperto in niente di quello che scrivo. Ho voglia semplicemente di raccontarmi un po'; se 
-a qualcuno le cose di cui parlo tornano utili ancora meglio. 
+Porto la mia esperienza, non sono un esperto in niente di quello che scrivo. Ho voglia semplicemente di raccontarmi un po'. 
 """
 
   [[params.socialIcons]]
